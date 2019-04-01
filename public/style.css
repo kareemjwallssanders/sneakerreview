@@ -1,0 +1,85 @@
+body {
+
+  background-image: url("img/jordan-1\ \(1\).png");
+  padding-top: 0px;
+  word-wrap: break-word;
+  color: light grey;
+  overflow: hidden;
+  background-repeat: none;
+  background-size: contain;
+}
+
+img {
+  height: 200px;
+}
+
+.jumbotron {
+  background: black;
+  opacity: 0.4;
+  filter: alpha(opacity=40);
+  /* width: 500px; */
+  height: 600px;
+  /* height: 600px; */
+  width: 100%;
+  background: white;
+  margin: auto;
+  padding: 10px;
+  box-shadow: 0 0 10px black;
+  overflow: hidden;
+  border: 2px solid black;
+  clear: both;
+}
+
+
+form {
+  height: 200px;
+  width: 100%;
+
+}
+
+.loginorHome {
+  float: left;
+}
+
+
+.btmInput {
+  height: 100px;
+  width: 400px;
+  font-size: 40px;
+}
+
+.topInput {
+  width: 200px;
+}
+
+
+.messages {
+  border: 2px solid black;
+  /* height: 100px; */
+  /* width: 100px; */
+  /* float: left; */
+  background: white;
+  line-height: 40px;
+  font-size: 20px;
+  text-decoration-style: none;
+}
+
+.bodyProfile {
+  background-image: url("img/jordan-1\ \(1\).png");
+}
+
+.profileh2 {
+float: both;
+}
+
+
+.well {
+  height: 300px;
+  width: 300px;
+
+}
+
+.unlink {
+  height: 5px;
+  width: 5px;
+}
